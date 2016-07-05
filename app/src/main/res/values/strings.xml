@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hello Pizza</string>
+
+    <string name="message_welcome">"Welcome, how much pizza do you wan't?"</string>
+
+    <!-- Plurals should only be used to provide grammatically correct spelling! -->
+    <plurals name="pizza_count">
+        <item quantity="zero">"If you see this you're not using an English Locale"</item>
+        <item quantity="one">One pizza</item>
+        <item quantity="other">%1$s pizzas</item>
+    </plurals>
+
+    <string-array name="examples">
+        <item>Lifecycle Activity</item>
+        <item>Lifecycle Activity Compat</item>
+        <item>Leak Activity</item>
+        <item>Restore Activity</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme compat. -->
+    <style name="AppThemeCompat" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- The current release of AppCompat is based on Material design, customize the theme and its Material colors here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
