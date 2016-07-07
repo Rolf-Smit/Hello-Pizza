@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-public class LeakActivity extends Activity implements View.OnClickListener {
+public class LeakActivity extends AppCompatActivity implements View.OnClickListener {
 
     private static final String TAG = "LifecycleActivity";
 
